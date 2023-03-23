@@ -1,0 +1,20 @@
+.tabela{
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+.tabela  .par{
+    background-color: #ddd;
+}
+.tabela  tr:hover{
+    background-color: #ddddddbf;
+}
+.tabela  th,td{
+    padding: 5px 15px;
+    border-bottom: 1px solid #000;
+}
+.tabela th{
+    border-bottom: 2px solid #000;
+}
+/* .tabela tr:nt):hover{
+    background-color: #ddddddbf;
+} */
