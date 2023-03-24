@@ -1,0 +1,9 @@
+.Mega>ul >li{
+    padding: 0 0.4rem;
+}
+.Mega ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0;
+}
