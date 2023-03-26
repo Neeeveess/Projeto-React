@@ -21,6 +21,7 @@ function Mega () {
 
     return ( 
         <div className="Mega">
+          <h1>Mega</h1>
             <input type="number" value={valor} onChange={quandoMudar} />
             <ul>{valorJSX}</ul>
         </div>

@@ -7,3 +7,8 @@
     justify-content: center;
     margin: 10px 0;
 }
+.Mega input{
+    width: 38px;
+    padding: 5px;
+    font-size: 18px;    
+}

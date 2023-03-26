@@ -23,7 +23,7 @@ export default (_) => (
     <h1>Fundamentos React</h1>
     <div className="Cards">
 
-      <Card titulo="#13 Contador" color="#8BAD39">
+      <Card titulo="#13 Mega" color="#8BAD39">
         <Mega/>
       </Card>
 
