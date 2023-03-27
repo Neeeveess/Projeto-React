@@ -1,5 +1,8 @@
 .Mega>ul >li{
     padding: 0 0.4rem;
+    margin: 0 3px;
+    border: 1px solid #000;
+    border-radius: 50%;
 }
 .Mega ul{
     display: flex;
